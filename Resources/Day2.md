@@ -15,3 +15,5 @@ Now in terminal run  `node server.js`
 
 
 Boom !! You Completed Day 2 Challenge.
+
+[Back to Home](../README.md)

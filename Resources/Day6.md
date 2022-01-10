@@ -53,3 +53,5 @@ Worker 1192 started
 ```
 
 Boom !! You Completed Day 6 Challenge.
+
+[Back to Home](../README.md)
